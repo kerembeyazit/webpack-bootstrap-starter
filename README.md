@@ -1,2 +1,3 @@
-# webpack-bootstrap-starter
-Webpack5 with Bootstrap 5
+"npm watch"<br />
+"npm start"<br />
+"npm build"<br />
